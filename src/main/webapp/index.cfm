@@ -1,1 +1,1 @@
-<cfoutput>Today is: #now()#</cfoutput>
+<cfinclude template="wheels/index.cfm">
