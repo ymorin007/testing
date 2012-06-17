@@ -16,6 +16,20 @@
 			<artifactId>railo</artifactId>
 			<version>3.1.2.001</version>
 		</dependency>
+
+		<!-- Servlet dependencies -->
+		<dependency>
+			<groupId>javax.servlet</groupId>
+			<artifactId>servlet-api</artifactId>
+			<version>2.4</version>
+			<scope>provided</scope>
+		</dependency>
+		<dependency>
+			<groupId>javax.servlet</groupId>
+			<artifactId>jsp-api</artifactId>
+			<version>2.0</version>
+			<scope>provided</scope>
+		</dependency>
 	</dependencies>
 
 	<repositories>
