@@ -17,14 +17,6 @@
 			<version>3.1.2.001</version>
 		</dependency>
 
-		<!-- Database dependencies -->
-		<dependency>
-			<groupId>postgresql</groupId>
-			<artifactId>postgresql</artifactId>
-			<version>8.3-603.jdbc3</version>
-			<scope>runtime</scope>
-		</dependency>
-
 		<!-- Servlet dependencies -->
 		<dependency>
 			<groupId>javax.servlet</groupId>
